@@ -1,6 +1,7 @@
+apscheduler
 flask
 python-dotenv
 psycopg2-binary
 hypercorn
 nest_asyncio
-apscheduler
+python-telegram-bot
